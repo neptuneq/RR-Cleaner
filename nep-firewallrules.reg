@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+;Made By neptune#1995
+;
+;This attempts to delete the registery key that contains rec room's firewall rules
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules]
