@@ -1,2 +1,2 @@
-# rr_unbanner
-unbans your windows from rec room and lets you create new accounts
+> # **Rec Room Unbanner Script**
+Automates unbanning your windows from Rec Room and lets you create new accounts. Deletes Rec Room's data & registry keys in a simple script.
