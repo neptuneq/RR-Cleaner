@@ -4,7 +4,7 @@ echo =========================================================================
 echo Unban's your windows device from Rec Room (v2.2). Made by neptune#1995
 echo =========================================================================
 :c
-set /P c=Do You Want To Run The Unbanner Script 2.1?[Y/N]?
+set /P c=Do You Want To Run The Unbanner Script 2.2?[Y/N]?
 if /I "%c%" EQU "Y" goto :s
 if /I "%c%" EQU "N" goto :e
 goto :c
