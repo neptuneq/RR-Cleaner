@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+;Made By neptune#1995
+;This attempts to delete the registery keys that prevents 
+;you from creating accounts when you've been account creation banned
+[-HKEY_CURRENT_USER\Software\Against Gravity]
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\recroom]
+[-HKEY_CURRENT_USER\SOFTWARE\Valve\Steam\Apps\471710]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 471710]
+[-HKEY_CURRENT_USER\SOFTWARE\Valve\Steam\Apps\471710]
