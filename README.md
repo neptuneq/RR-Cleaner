@@ -3,6 +3,7 @@ This script attempts to clean all of Rec Room's data from your computer. HWID Sp
 
 Credit to https://github.com/sr2echa for https://github.com/sr2echa/Monotone-HWID-Spoofer
 
+![](https://img.shields.io/github/downloads/neptuneq/RR-Cleaner/total)
 > **Instructions**
 - 1 ) Extract and run `nep's RR cleaner v3 (fast).bat` without administrator.
 - 2 ) Click `Unban` then `Clean` then `Manual Options` then `Dark Cleaner 0.2`.
