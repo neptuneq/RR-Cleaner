@@ -1,7 +1,7 @@
 > # **neptune#1995's Rec Room Cleaner Script**
 This script attempts to clean all of Rec Room's data from your computer. HWID Spoofer is needed because Rec Room logs your HWID values. Cleaner script made by neptune#1995.
 
-Credit to https://github.com/sr2echa for https://github.com/sr2echa/Monotone-HWID-Spoofer
+Credit to [Monotone](https://github.com/sr2echa/Monotone-HWID-Spoofer) for the HWID spoofer.
 
 ![](https://img.shields.io/github/downloads/neptuneq/RR-Cleaner/total)
 > **Instructions**
